@@ -10,6 +10,16 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
     "cf:dev": "vite build && wrangler pages dev dist --d1=DB"
+    "scripts": {
+  "dev": "vite --port=3000 --host=0.0.0.0",
+  "build": "vite build",
+  "preview": "vite preview",
+  "clean": "rm -rf dist",
+  "lint": "tsc --noEmit",
+  "cf:dev": "vite build && wrangler pages dev dist --d1=DB",
+  "deploy": "vite build && wrangler pages deploy dist"
+}
+Once added, you can deplo
   },
   "dependencies": {
     "lucide-react": "^0.546.0",
