@@ -10,7 +10,6 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
     "cf:dev": "vite build && wrangler pages dev dist --d1=DB"
-    "deploy": "vite build && wrangler pages deploy dist"
 }
 Once added, you can deplo
   },
