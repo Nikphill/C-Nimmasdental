@@ -10,8 +10,6 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
     "cf:dev": "vite build && wrangler pages dev dist --d1=DB"
-}
-Once added, you can deplo
   },
   "dependencies": {
     "lucide-react": "^0.546.0",
