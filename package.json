@@ -10,7 +10,8 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
     "cf:dev": "vite build && wrangler pages dev dist --d1=DB"
-  },
+  }
+  }
   "dependencies": {
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
