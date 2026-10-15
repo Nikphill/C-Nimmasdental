@@ -1,0 +1,100 @@
+{
+  "business": {
+    "name": "Nimma's Multispeciality Dental Clinic",
+    "shortName": "Nimma's Dental Clinic",
+    "phoneDisplay": "88851 66165",
+    "phoneIntl": "+918885166165",
+    "street": "Beside Kaveri Udipi Hotel, Bypass Junction Corridor",
+    "locality": "Kamareddy",
+    "region": "Telangana",
+    "postalCode": "503111",
+    "country": "IN",
+    "mapsUrl": "https://maps.google.com/?q=Nimma's+Dental+Clinic+Beside+Kaveri+Udipi,Kamareddy",
+    "hours": [{ "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "opens": "09:00", "closes": "20:00" }],
+    "tagline": "Painless multispeciality and cosmetic dentistry in Kamareddy, Telangana"
+  },
+  "pages": {
+    "home": {
+      "path": "/",
+      "title": "Dentist in Kamareddy | Nimma's Multispeciality Dental Clinic",
+      "description": "Nimma's Multispeciality Dental Clinic, Kamareddy: dental implants, painless root canals, laser treatments, braces & aligners, kids' dentistry and smile makeovers. Book online."
+    },
+    "cosmetic": {
+      "path": "/cosmetic-dentistry",
+      "title": "Cosmetic Dentistry in Kamareddy | Veneers, Whitening, Aligners",
+      "description": "Porcelain veneers, laser teeth whitening, clear aligners and smile design in Kamareddy by Dr. Abhishek Reddy Nimma and Dr. Kranthi Nimma. See real before & after cases."
+    }
+  },
+  "doctors": [
+    {
+      "name": "Dr. Abhishek Reddy Nimma",
+      "jobTitle": "Consultant Oral & Maxillofacial Surgeon",
+      "credentials": "BDS, MDS (Oral & Maxillofacial Surgery)",
+      "experience": "12+ years",
+      "focus": "Dental implants, wisdom tooth and complex extractions, jaw and facial trauma surgery"
+    },
+    {
+      "name": "Dr. Kranthi Nimma",
+      "jobTitle": "Consultant Periodontist & Aesthetic Dentist",
+      "credentials": "BDS, MDS (Periodontology)",
+      "experience": "10+ years",
+      "focus": "Gum treatment, laser gum contouring, porcelain veneers and smile makeovers"
+    }
+  ],
+  "services": [
+    { "name": "Dental Check-up & Digital Diagnosis", "description": "Full examination of teeth, gums and oral tissue with digital diagnostics and a clear treatment plan.", "group": "general" },
+    { "name": "Scaling & Teeth Cleaning", "description": "Plaque, tartar and stain removal with polishing to protect gums from infection.", "group": "general" },
+    { "name": "Pedodontics (Children's Dentistry)", "description": "Gentle dental care for children including sealants, fillings and first-visit orientation.", "group": "general" },
+    { "name": "Fluoride Treatment", "description": "Fluoride application to strengthen enamel and stop early cavities.", "group": "general" },
+    { "name": "Dental Implants", "description": "Titanium dental implants placed with soft-tissue laser support for stable, comfortable healing.", "group": "advanced" },
+    { "name": "Root Canal Treatment (Micro-Endodontics)", "description": "Root canal treatment to remove deep nerve infection and save the natural tooth.", "group": "advanced" },
+    { "name": "Oral & Maxillofacial Surgery", "description": "Wisdom tooth removal, cyst removal, jaw surgery and trauma care.", "group": "advanced" },
+    { "name": "Laser Crown Lengthening", "description": "Soft-tissue laser reshaping of the gum line before placing crowns.", "group": "advanced" },
+    { "name": "Cosmetic Smile Designing", "description": "Custom smile makeover planning using porcelain veneers, crowns and composite reshaping.", "group": "cosmetic" },
+    { "name": "Braces & Clear Aligners", "description": "Correction of crowding, gaps and bite problems with braces or near-invisible clear aligners.", "group": "cosmetic" },
+    { "name": "Laser Teeth Whitening", "description": "Laser-activated whitening in about 45 minutes to remove tea, coffee and tobacco stains.", "group": "cosmetic" },
+    { "name": "Dental Jewellery", "description": "Painless, drill-free application of certified crystal jewellery on the tooth surface.", "group": "cosmetic" }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Nimma's Dental Clinic in Kamareddy?",
+      "a": "Nimma's Dental Clinic is beside Kaveri Udipi Hotel on the bypass junction corridor in Kamareddy, Telangana 503111. Parking is available for cars and two-wheelers."
+    },
+    {
+      "q": "What are the clinic timings and how do I book an appointment?",
+      "a": "Phone consultations are available from 9 am to 8 pm, and online appointment slots run from 9:30 AM to 7:30 PM, Monday to Saturday. You can book on this website or call 88851 66165."
+    },
+    {
+      "q": "Who are the dentists at Nimma's Dental Clinic?",
+      "a": "The clinic is led by Dr. Abhishek Reddy Nimma, an oral and maxillofacial surgeon (BDS, MDS), and Dr. Kranthi Nimma, a periodontist and aesthetic dentist (BDS, MDS)."
+    },
+    {
+      "q": "Do you offer dental implants in Kamareddy?",
+      "a": "Yes. Dr. Abhishek Reddy Nimma places titanium dental implants, using soft-tissue laser support to keep healing comfortable. An examination and X-ray decide whether implants suit your case."
+    },
+    {
+      "q": "Is root canal treatment painful?",
+      "a": "Root canal treatment is done under local anaesthesia, so you should feel pressure rather than pain. The clinic offers micro-endodontic root canal treatment to remove deep infection and save the natural tooth."
+    },
+    {
+      "q": "Do you treat children?",
+      "a": "Yes. The pedodontics service covers children's check-ups, sealants, fillings and fluoride treatment, with a gentle first visit so children feel at ease."
+    },
+    {
+      "q": "What cosmetic dentistry treatments are available?",
+      "a": "Treatments include porcelain veneers, crowns, composite reshaping, laser teeth whitening (about 45 minutes), clear aligners and braces, and dental jewellery. Smile makeovers usually take 2 to 3 sessions."
+    },
+    {
+      "q": "Can I get an emergency dental appointment?",
+      "a": "Yes. For tooth trauma, severe pain, swelling or urgent extractions, call 88851 66165 as soon as possible. Dr. Abhishek Reddy Nimma handles oral surgery and facial trauma cases."
+    },
+    {
+      "q": "How much does dental treatment cost?",
+      "a": "The cost depends on your diagnosis and the treatment chosen. After your examination the dentist explains the options and gives you an estimate before treatment begins. Call 88851 66165 or book online to get started."
+    },
+    {
+      "q": "What does a laser dental procedure involve?",
+      "a": "The clinic uses soft-tissue lasers for gum treatment and contouring. Laser work generally means less bleeding and swelling than a scalpel, and many procedures need little or no stitching."
+    }
+  ]
+}
