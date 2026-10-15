@@ -1,0 +1,34 @@
+# Nimma's Multispeciality Dental Clinic
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# AI search and answer engines (help the clinic appear in AI answers)
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+# AI model-training crawlers: allowed by default. Change Allow to Disallow to opt out.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: __SITE_URL__/sitemap.xml
